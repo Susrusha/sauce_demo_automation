@@ -3,7 +3,7 @@
 Manual testing of the SauceDemo e-commerce web application (https://www.saucedemo.com/).
 
 ## Documents
-- [Test Cases and Bug Reports (PDF)](SauceDemo_Test_Cases_and_Bug_Reports.pdf)
+- [Test Cases and Bug Reports (PDF)](SauceDemo_Manual_Test_Cases_and_Bugs.pdf)
 
 ## Summary
 
